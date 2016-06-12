@@ -1,4 +1,4 @@
-//
+//open xone driver
 //  xonehid.h
 //  Xone Driver
 //
